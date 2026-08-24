@@ -1,7 +1,4 @@
-```markdown
-<!-- ===================================================== -->
-<!--                     PROFILE HEADER                    -->
-<!-- ===================================================== -->
+<!-- PROFILE HEADER -->
 
 <div align="center">
 
@@ -11,8 +8,8 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
 
 </div>
 
@@ -26,14 +23,14 @@ I'm passionate about building practical cybersecurity skills, with a growing int
 
 I enjoy applying what I learn through hands-on projects involving cybersecurity, networking, automation, software development, and hardware.
 
-- 🔐 **Cybersecurity Major**
-- 🧪 Interested in **Web Penetration Testing**
-- 🛡️ Interested in **SOC Analysis & Security Operations**
-- 🌐 Passionate about **Network & Infrastructure Security**
-- 🔎 Interested in **Threat Detection & Incident Analysis**
-- ⚙️ Interested in **Security Automation**
-- 💻 Building practical projects across cybersecurity, networking, software, and hardware
-- 🚀 Continuously developing my technical and practical skills
+* 🔐 **Cybersecurity Major**
+* 🧪 Interested in **Web Penetration Testing**
+* 🛡️ Interested in **SOC Analysis & Security Operations**
+* 🌐 Passionate about **Network & Infrastructure Security**
+* 🔎 Interested in **Threat Detection & Incident Analysis**
+* ⚙️ Interested in **Security Automation**
+* 💻 Building practical projects across cybersecurity, networking, software, and hardware
+* 🚀 Continuously developing my technical and practical skills
 
 ---
 
@@ -68,17 +65,11 @@ I enjoy applying what I learn through hands-on projects involving cybersecurity,
 ## 🎨 Other Technologies & Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=arduino,vscode,blender" />
-
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" alt="Adobe Photoshop" />
-
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/adobeindesign/FF3366" width="48" height="48" alt="Adobe InDesign" />
-
+  <img src="https://skillicons.dev/icons?i=arduino,vscode,blender" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" alt="Adobe Photoshop" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" width="48" height="48" alt="Adobe InDesign" />
 </p>
 
 `Arduino` `VS Code` `Adobe Photoshop` `Adobe InDesign` `Blender`
@@ -109,16 +100,16 @@ The workflow supports phishing investigation by analyzing information related to
 
 ### Implemented
 
-- VLAN Configuration
-- IP Addressing
-- Subnetting
-- DHCP
-- EIGRP
-- OSPF
-- Inter-VLAN Routing
-- Static & Dynamic Routing
-- VPN
-- Network Security Concepts
+* VLAN Configuration
+* IP Addressing
+* Subnetting
+* DHCP
+* EIGRP
+* OSPF
+* Inter-VLAN Routing
+* Static & Dynamic Routing
+* VPN
+* Network Security Concepts
 
 ### Technologies & Concepts
 
@@ -152,9 +143,9 @@ My certificates, digital credentials, and professional development can be viewed
 
 <div align="center">
 
-[![Credly](https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](YOUR_CREDLY_PROFILE_URL)
+[![Credly](https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/malak-hendawy25)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20My%20Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
 
 </div>
 
@@ -168,10 +159,10 @@ My certificates, digital credentials, and professional development can be viewed
 
 ### 🔴 Offensive Security
 
-- 🧪 Web Penetration Testing
-- 🔓 Ethical Hacking
-- 🔍 Vulnerability Assessment
-- 🎯 Attack Methodologies
+* 🧪 Web Penetration Testing
+* 🔓 Ethical Hacking
+* 🔍 Vulnerability Assessment
+* 🎯 Attack Methodologies
 
 </td>
 
@@ -179,11 +170,11 @@ My certificates, digital credentials, and professional development can be viewed
 
 ### 🔵 Defensive Security
 
-- 🛡️ SOC Analysis
-- 🚨 Threat Detection
-- 🔎 Threat Analysis
-- 📊 Log Analysis
-- ⚠️ Incident Analysis
+* 🛡️ SOC Analysis
+* 🚨 Threat Detection
+* 🔎 Threat Analysis
+* 📊 Log Analysis
+* ⚠️ Incident Analysis
 
 </td>
 </tr>
@@ -197,15 +188,15 @@ My certificates, digital credentials, and professional development can be viewed
 
 ### Connect With Me
 
-I'm always interested in connecting with professionals, students, and organizations in **Cybersecurity, Network Security, Web Penetration Testing, and Security Operations**.
+I'm open to professional connections, collaboration, internship opportunities, and discussions related to **Cybersecurity, Network Security, Web Penetration Testing, and Security Operations**.
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
 
-[![Credly](https://img.shields.io/badge/Credly-View%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](YOUR_CREDLY_PROFILE_URL)
+[![Credly](https://img.shields.io/badge/Credly-View%20Credentials-FF6B00?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/malak-hendawy25)
 
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
 
 <br/><br/>
 
@@ -220,4 +211,3 @@ I'm always interested in connecting with professionals, students, and organizati
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
 </div>
-```
