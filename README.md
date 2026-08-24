@@ -4,20 +4,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=58&duration=1800&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=1100&height=170&lines=%3E_+MALAK+HENDAWY" alt="Malak Hendawy" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Web%20Pentesting-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Network%20Security-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/SOC%20Analysis-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=00FF41" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=58&duration=1800&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=1100&height=170&lines=%3E_+MALAK+HENDAWY" alt="Malak Hendawy" /><br/>
 
 <a href="https://www.linkedin.com/in/malak-hendawy-5187a7328">
-  <img src="https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
 
 <a href="mailto:malak.a.hendawy7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" />
 </a>
 
 </div>
