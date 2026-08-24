@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ===================================================== -->
 <!--                     PROFILE HEADER                    -->
 <!-- ===================================================== -->
@@ -213,4 +213,4 @@ I'm open to connecting with **cybersecurity professionals, recruiters, students,
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=00FFB3" alt="" />
 
 </div>
-```
+
