@@ -1,17 +1,16 @@
+```markdown
 <!-- ===================================================== -->
-
 <!--                     PROFILE HEADER                    -->
-
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=gradient&amp;text=Malak%20Hendawy&amp;fontAlign=50&amp;fontAlignY=40&amp;fontSize=55&amp;animation=fadeIn" alt="Malak Hendawy" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=200&amp;color=0:0D1117,50:001F29,100:0D1117&amp;text=Malak%20Hendawy&amp;fontSize=60&amp;fontColor=00FFB3&amp;animation=twinkling&amp;stroke=00FFB3&amp;strokeWidth=1" alt="Malak Hendawy" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
 
 </div>
 
@@ -25,14 +24,14 @@ I'm passionate about building practical cybersecurity skills, with a growing int
 
 I enjoy applying what I learn through hands-on projects involving cybersecurity, networking, automation, software development, and hardware.
 
-* 🔐 **Cybersecurity Major**
-* 🧪 Interested in **Web Penetration Testing**
-* 🛡️ Interested in **SOC Analysis & Security Operations**
-* 🌐 Passionate about **Network & Infrastructure Security**
-* 🔎 Interested in **Threat Detection & Incident Analysis**
-* ⚙️ Interested in **Security Automation**
-* 💻 Building practical projects across cybersecurity, networking, software, and hardware
-* 🚀 Continuously developing my technical and practical skills
+- 🔐 **Cybersecurity Major**
+- 🧪 Interested in **Web Penetration Testing**
+- 🛡️ Interested in **SOC Analysis & Security Operations**
+- 🌐 Passionate about **Network & Infrastructure Security**
+- 🔎 Interested in **Threat Detection & Incident Analysis**
+- ⚙️ Interested in **Security Automation**
+- 💻 Building practical projects across cybersecurity, networking, software, and hardware
+- 🚀 Continuously developing my technical and practical skills
 
 ---
 
@@ -66,35 +65,14 @@ I enjoy applying what I learn through hands-on projects involving cybersecurity,
 
 ## 🎨 Other Technologies & Tools
 
-<table>
-<tr>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Adobe Photoshop" />
+  <img src="https://api.iconify.design/logos:adobe-indesign.svg" width="48" height="48" alt="Adobe InDesign" />
+  <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+</p>
 
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" alt="Arduino" />
-<br/>
-<b>Arduino</b>
-</td>
-
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="Adobe Photoshop" />
-<br/>
-<b>Photoshop</b>
-</td>
-
-<td align="center" width="130">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/13.21.0/adobeindesign.svg" width="50" height="50" alt="Adobe InDesign" />
-<br/>
-<b>InDesign</b>
-</td>
-
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Blender" />
-<br/>
-<b>Blender</b>
-</td>
-
-</tr>
-</table>
+`Arduino` `Photoshop` `InDesign` `Blender`
 
 ---
 
@@ -122,16 +100,16 @@ The workflow supports phishing investigation by analyzing information related to
 
 ### Implemented
 
-* VLAN Configuration
-* IP Addressing
-* Subnetting
-* DHCP
-* EIGRP
-* OSPF
-* Inter-VLAN Routing
-* Static & Dynamic Routing
-* VPN
-* Network Security Concepts
+- VLAN Configuration
+- IP Addressing
+- Subnetting
+- DHCP
+- EIGRP
+- OSPF
+- Inter-VLAN Routing
+- Static & Dynamic Routing
+- VPN
+- Network Security Concepts
 
 ### Technologies & Concepts
 
@@ -165,9 +143,9 @@ My certificates, digital credentials, and professional development can be viewed
 
 <div align="center">
 
-[![Credly](https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/malak-hendawy25)
+[![Credly](https://img.shields.io/badge/Credly-View%20My%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/malak-hendawy25)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20My%20Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
 
 </div>
 
@@ -182,10 +160,10 @@ My certificates, digital credentials, and professional development can be viewed
 
 ### 🔴 Offensive Security
 
-* 🧪 Web Penetration Testing
-* 🔓 Ethical Hacking
-* 🔍 Vulnerability Assessment
-* 🎯 Attack Methodologies
+- 🧪 Web Penetration Testing
+- 🔓 Ethical Hacking
+- 🔍 Vulnerability Assessment
+- 🎯 Attack Methodologies
 
 </td>
 
@@ -193,11 +171,11 @@ My certificates, digital credentials, and professional development can be viewed
 
 ### 🔵 Defensive Security
 
-* 🛡️ SOC Analysis
-* 🚨 Threat Detection
-* 🔎 Threat Analysis
-* 📊 Log Analysis
-* ⚠️ Incident Analysis
+- 🛡️ SOC Analysis
+- 🚨 Threat Detection
+- 🔎 Threat Analysis
+- 📊 Log Analysis
+- ⚠️ Incident Analysis
 
 </td>
 
@@ -216,11 +194,11 @@ I'm open to connecting with **cybersecurity professionals, recruiters, students,
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
 
-[![Credly](https://img.shields.io/badge/Credly-View%20Credentials-FF6B00?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/malak-hendawy25)
+[![Credly](https://img.shields.io/badge/Credly-View%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/malak-hendawy25)
 
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
 
 <br/><br/>
 
@@ -232,6 +210,7 @@ I'm open to connecting with **cybersecurity professionals, recruiters, students,
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=gradient&amp;section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=00FFB3" alt="" />
 
 </div>
+```
