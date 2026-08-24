@@ -1,3 +1,23 @@
+```markdown
+<!-- ===================================================== -->
+<!--                     PROFILE HEADER                    -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Malak%20Hendawy&fontAlign=50&fontAlignY=38&desc=Cybersecurity%20Major%20%7C%20Networking%20%26%20Security&descAlignY=58&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=780&lines=Junior+Computer+Science+Student;Cybersecurity+Major;Interested+in+Web+Penetration+Testing;Networking+%26+Security+Enthusiast;Exploring+SOC+%26+Security+Operations;Build+%7C+Learn+%7C+Secure" alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
+
+</div>
+
+---
+
 # 👩‍💻 About Me
 
 Hi! I'm **Malak Hendawy**, a **Junior Computer Science Student** majoring in **Cybersecurity**.
@@ -49,17 +69,19 @@ I enjoy applying what I learn through hands-on projects involving cybersecurity,
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=arduino,vscode,blender" />
 
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" alt="Adobe Photoshop" />
 
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://cdn.simpleicons.org/adobeindesign/FF3366" width="48" height="48" alt="Adobe InDesign" />
 
 </p>
+
+`Arduino` `VS Code` `Adobe Photoshop` `Adobe InDesign` `Blender`
 
 ---
 
@@ -173,15 +195,15 @@ My certificates, digital credentials, and professional development can be viewed
 
 <div align="center">
 
-### Professional Links
+### Connect With Me
 
-I'm open to connecting with cybersecurity professionals, students, recruiters, and others interested in **Cybersecurity, Network Security, Penetration Testing, and Security Operations**.
+I'm always interested in connecting with professionals, students, and organizations in **Cybersecurity, Network Security, Web Penetration Testing, and Security Operations**.
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
 
-[![Credly](https://img.shields.io/badge/Credly-Certifications%20%26%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](YOUR_CREDLY_PROFILE_URL)
+[![Credly](https://img.shields.io/badge/Credly-View%20Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](YOUR_CREDLY_PROFILE_URL)
 
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
 
@@ -189,4 +211,13 @@ I'm open to connecting with cybersecurity professionals, students, recruiters, a
 
 **Cybersecurity • Network Security • Web Penetration Testing • SOC Analysis**
 
+<br/><br/>
+
+### 🔐 Build • Learn • Secure
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
 </div>
+```
