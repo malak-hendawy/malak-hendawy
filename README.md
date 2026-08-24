@@ -1,19 +1,30 @@
 
+
 <!-- ===================================================== -->
-<!--                     PROFILE HEADER                    -->
+<!--               CYBERSECURITY PROFILE HEADER            -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=200&amp;color=0:0D1117,50:001F29,100:0D1117&amp;text=Malak%20Hendawy&amp;fontSize=60&amp;fontColor=00FFB3&amp;animation=twinkling&amp;stroke=00FFB3&amp;strokeWidth=1" alt="Malak Hendawy" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1800&pause=900&color=00FF41&background=0D1117&center=true&vCenter=true&width=900&height=110&lines=%3E_+MALAK+HENDAWY;%5B+CYBERSECURITY+MAJOR+%5D" alt="Malak Hendawy Cybersecurity" />
 
 <br/>
+
+<img src="https://img.shields.io/badge/WEB%20PENETRATION%20TESTING-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/SOC%20ANALYSIS-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=00FF41" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
 
-</div>
+<br/><br/>
 
+`root@malak:~$ whoami`  
+**Cybersecurity Major | Web Pentesting | Network Security | SOC Analysis**
+
+</div>
 ---
 
 # 👩‍💻 About Me
