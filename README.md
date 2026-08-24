@@ -1,12 +1,14 @@
-<!-- PROFILE HEADER -->
+<!-- ===================================================== -->
+
+<!--                     PROFILE HEADER                    -->
+
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Malak%20Hendawy&fontAlign=50&fontAlignY=38&desc=Cybersecurity%20Major%20%7C%20Networking%20%26%20Security&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=gradient&amp;text=Malak%20Hendawy&amp;fontAlign=50&amp;fontAlignY=40&amp;fontSize=55&amp;animation=fadeIn" alt="Malak Hendawy" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=780&lines=Junior+Computer+Science+Student;Cybersecurity+Major;Interested+in+Web+Penetration+Testing;Networking+%26+Security+Enthusiast;Exploring+SOC+%26+Security+Operations;Build+%7C+Learn+%7C+Secure" alt="Typing SVG" />
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:malak.a.hendawy7@gmail.com)
@@ -39,7 +41,7 @@ I enjoy applying what I learn through hands-on projects involving cybersecurity,
 ## 💻 Programming & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,nodejs" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,nodejs" alt="Programming and Development Skills" />
 </p>
 
 `C++` `Java` `Python` `JavaScript` `HTML` `CSS` `Node.js`
@@ -64,15 +66,35 @@ I enjoy applying what I learn through hands-on projects involving cybersecurity,
 
 ## 🎨 Other Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,vscode,blender" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" alt="Adobe Photoshop" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" width="48" height="48" alt="Adobe InDesign" />
-</p>
+<table>
+<tr>
 
-`Arduino` `VS Code` `Adobe Photoshop` `Adobe InDesign` `Blender`
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" alt="Arduino" />
+<br/>
+<b>Arduino</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="Adobe Photoshop" />
+<br/>
+<b>Photoshop</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/13.21.0/adobeindesign.svg" width="50" height="50" alt="Adobe InDesign" />
+<br/>
+<b>InDesign</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Blender" />
+<br/>
+<b>Blender</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -155,6 +177,7 @@ My certificates, digital credentials, and professional development can be viewed
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 ### 🔴 Offensive Security
@@ -177,6 +200,7 @@ My certificates, digital credentials, and professional development can be viewed
 * ⚠️ Incident Analysis
 
 </td>
+
 </tr>
 </table>
 
@@ -186,11 +210,11 @@ My certificates, digital credentials, and professional development can be viewed
 
 <div align="center">
 
-### Connect With Me
+### Professional Connections & Opportunities
 
-I'm open to professional connections, collaboration, internship opportunities, and discussions related to **Cybersecurity, Network Security, Web Penetration Testing, and Security Operations**.
+I'm open to connecting with **cybersecurity professionals, recruiters, students, and technology communities**, as well as exploring opportunities where I can continue developing and applying my cybersecurity skills.
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Hendawy-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malak-hendawy-5187a7328)
 
@@ -208,6 +232,6 @@ I'm open to professional connections, collaboration, internship opportunities, a
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=gradient&amp;section=footer" alt="Footer" />
 
 </div>
